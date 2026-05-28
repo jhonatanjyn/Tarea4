@@ -1,0 +1,9 @@
+Es importante porque tecnologías abiertas como Node.js permiten que las comunidades creen sus propias soluciones tecnológicas sin depender completamente de grandes empresas o programas costosos.
+
+Por ejemplo, una comunidad puede desarrollar:
+
+páginas web informativas,
+plataformas de emprendimiento,
+sistemas de organización comunitaria,
+aplicaciones para eventos culturales,
+herramientas educativas o sociales.
